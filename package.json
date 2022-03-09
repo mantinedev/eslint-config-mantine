@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-mantine",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "license": "MIT",
+  "author": "Vitaly Rtishchev <rtivital@gmail.com>",
+  "sideEffects": false,
+  "repository": {
+    "url": "https://github.com/mantinedev/eslint-config-mantine.git",
+    "type": "git"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
