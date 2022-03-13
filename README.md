@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-npx install-peerdeps eslint-config-mantine
+npx install-peerdeps --dev eslint-config-mantine
 ```
 
 ## Usage
