@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mantine",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "main": "eslint.config.js",
   "types": "./types.d.ts",
   "license": "MIT",
