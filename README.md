@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-yarn add @eslint/js eslint eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-react typescript-eslint eslint-config-mantine
+yarn add --dev @eslint/js eslint eslint-plugin-jsx-a11y eslint-plugin-react typescript-eslint eslint-config-mantine
 ```
 
 ## Usage
