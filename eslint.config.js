@@ -7,7 +7,6 @@ module.exports = [
   eslint.configs.recommended,
   ...tseslint.configs.recommended,
   jsxA11y.flatConfigs.recommended,
-  { ignores: ["**/*.{mjs,cjs,js,d.ts,d.mts}"] },
   {
     // ESLint specific rules
     // https://eslint.org/docs/latest/rules/
