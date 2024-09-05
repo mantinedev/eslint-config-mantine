@@ -16,11 +16,6 @@ module.exports = [
       "no-var": "error",
       "no-self-compare": "error",
       "no-template-curly-in-string": "error",
-      "capitalized-comments": [
-        "error",
-        "always",
-        { ignorePattern: "prettier" },
-      ],
       curly: "error",
       "default-case": "off",
       "default-case-last": "error",
